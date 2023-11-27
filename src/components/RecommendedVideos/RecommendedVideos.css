@@ -1,0 +1,17 @@
+.recommendedVideos {
+    width: 80%;
+    margin-left: 20%;
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+.recommendedVideos_videos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.ad-pic {
+    width: 100%;
+    margin-bottom: 20px;
+}
