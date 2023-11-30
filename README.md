@@ -1,5 +1,5 @@
 # Live Preview
-https://adityabhatt-ytclone.netlify.app
+https://youtube-clone-01-eta.vercel.app/
 
 # Getting Started with Create React App
 
